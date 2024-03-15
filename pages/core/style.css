@@ -191,9 +191,9 @@
   /*.button-model-1 và .button-model-2 khác nhau về màu thôi
   */
   .button-model-1{
-    background-color: #FFF000;
+    background-color: #000000;
     border-radius: 5px;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     margin: auto;
     max-width: 300px;
@@ -208,9 +208,9 @@
     vertical-align: middle;
   }
   .button-model-2{
-    background-color: #ffbb00;
+    background-color: #000000;
     border-radius: 5px;
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     margin: auto;
     max-width: 300px;
@@ -252,8 +252,10 @@
   /*Các list dịch vụ mà ko hiển thị
   */
   .services-list-4,
+  .services-list-6,
   .services-list-7,
-  .offers
+  .offers,
+  .customer-review
   {
     display: none;
   }
@@ -578,9 +580,9 @@
     }
     .top-bar-item-left,
     .top-bar-item-right{
-      background-color: #FFF000;
+      background-color: #000000;
       border: none;
-      color: #000000;
+      color: #ffffff;
       font-weight: 500;
       margin: auto;
       padding-left: 5px;

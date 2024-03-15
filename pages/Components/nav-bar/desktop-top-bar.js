@@ -22,7 +22,7 @@ export default function desktopTopBar(){
                         BOOK NOW
                     </div>
                 </Link>
-            </div>  
+            </div>
         </div>
     </>;
 }

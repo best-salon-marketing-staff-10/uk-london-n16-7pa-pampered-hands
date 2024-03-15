@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "greennailbar",
+    "site": "pamperedhands",
     "public": "out",
     "ignore": [
       "firebase.json",
