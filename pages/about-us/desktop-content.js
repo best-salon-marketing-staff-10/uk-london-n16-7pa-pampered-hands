@@ -15,8 +15,7 @@ import { imageAlt } from '/pages/core/info';
 
 
 
-export default function DesktopContent(){
-    
+export default function DesktopContent(){        
     return(
         <>
             <div className="desktop-about-us">

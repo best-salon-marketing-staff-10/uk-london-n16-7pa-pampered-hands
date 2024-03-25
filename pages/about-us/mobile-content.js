@@ -15,6 +15,7 @@ import { imageAlt } from '/pages/core/info';
 
 export default function MobileContent(){
     //Cần biến đoạn này thành component cho ngon lành, component carousel hay gì đó tùy có thể ko cần carousel
+
     return(
         <>
             <div className="mobile-about-us">
@@ -37,7 +38,6 @@ export default function MobileContent(){
                         </Carousel.Item>
                     </Carousel> 
                 </div>
-
                 <div className="mobile-about-us-our-story">
                     <OurStory />
                 </div>
