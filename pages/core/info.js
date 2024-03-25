@@ -436,9 +436,9 @@ const schemaInput = {
 
   schemaPriceRange: "££",
   //Cần đổi tên khách
-  schemaPersonReviewAuthorName: "",
+  schemaPersonReviewAuthorName: "Stephanie Beauloye",
   //Xem điểm review trung bình của tiệm là bao nhiêu
-  schemaRatingValue: "",
+  schemaRatingValue: "5",
   schemaBestRating: "5",
 
   schemaGeoLatitude: changedInfo.geoLatitude,
