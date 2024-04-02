@@ -98,8 +98,8 @@ const processedBusinessOpeningTime = {
 const changedInfo = {
   businessName: "Pampered Hands", 
   businessAddressLevel1: "72 Stoke Newington High St",
-  businessAddressLevel2: "London",
-  businessAddressLevel3: "Greater London",
+  businessAddressLevel2: "Stoke Newington",
+  businessAddressLevel3: " London",
   businessAddressLevel4: "England",
   businessCountry: "United Kingdom",
   businessGeoRegionCode: "GB",
@@ -204,7 +204,7 @@ const seoInfo = {
 }
 
 const seoKeyword = {
-  seoKeyword1: seoInfo.keyword1 + " " + seoInfo.localKeyword1,
+  seoKeyword1: seoInfo.keyword1 + " " + seoInfo.localKeyword1 + "," + seoInfo.localKeyword2,
   seoKeyword2: seoInfo.keyword1 + " " + seoInfo.localKeyword2,
 
   seoKeyword3: seoInfo.keyword2 + " " + seoInfo.localKeyword1,
