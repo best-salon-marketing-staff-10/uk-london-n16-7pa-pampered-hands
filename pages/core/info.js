@@ -119,7 +119,7 @@ const changedInfo = {
   //
   linkBookingApp: "https://bit.ly/4cgTxu4",
   
-  linkToMap: "",
+  linkToMap: "https://maps.app.goo.gl/pFGNdcHsFoeiPxVaA",
 
   //Mở Google Maps tiệm, zoom sát vào, chuột phải 
   geoLatitude: 51.558908136875,
@@ -130,8 +130,8 @@ const changedInfo = {
   metaGoogleSiteVerification: "qnij4LzYIxd0ns7ww7gjQ2f9USw-fOXSH_LU8dN-5Uk",
 
   //iframe map
-  //Mở Google Maps, search tên tiệm, bấm nút chia sẻ, qua mục Embed a map là thấy, chỉ lấy phần link https 
-  iframeMapLink : "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d155.0319115569888!2d-0.0740898155358314!3d51.55887277676984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMzJzMyLjEiTiAwwrAwNCcyNi4zIlc!5e0!3m2!1sen!2sus!4v1710380595006!5m2!1sen!2sus",
+  //Mở Google Maps, search tên tiệm, bấm nút chia sẻ, qua mục Embed a map là thấy, chỉ lấy phần link https     
+  iframeMapLink : "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9922.036705864757!2d-0.0739625!3d51.5588986!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761dc100ac9a91%3A0x4e27cc2520d325e0!2sPampered%20Hands!5e0!3m2!1sen!2suk!4v1722997476748!5m2!1sen!2suk",
 
   // Các ảnh của tiệm
   ogImage:"https://pamperedhands.web.app/images/desktop-nail-salon-happy-customer-1-1.jpg",

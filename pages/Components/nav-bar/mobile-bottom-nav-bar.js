@@ -5,9 +5,9 @@ import { images } from '/pages/core/info';
 import { menu } from '/pages/core/info';
 
 
-export default function MobileBottomNavBar(){
+export default function MobileBottomNavBar() {
     return <>
-        
+
         <div className="mobile-bottom-nav-bar-section-bottom-nav-bar">
             <Navbar expand={false} bg="white" variant="d" fixed="bottom">
                 <div className="mobile-bottom-nav-bar-section">
@@ -21,7 +21,7 @@ export default function MobileBottomNavBar(){
                             </div>
                             <div className="mobile-bottom-nav-bar-section-content">
                                 {images.BottomNavButton1Content}
-                            </div>   
+                            </div>
                         </div>
 
                     </Link>
@@ -33,9 +33,9 @@ export default function MobileBottomNavBar(){
                             <div>
                                 <img className="mobile-bottom-nav-bar-img" alt={images.BottomNavButton2IconAlt} src={images.BottomNavButton2Icon} />
                             </div>
-                            <div className="mobile-bottom-nav-bar-section-content">  
+                            <div className="mobile-bottom-nav-bar-section-content">
                                 {images.BottomNavButton2Content}
-                            </div> 
+                            </div>
                         </div>
 
                     </Link>
@@ -46,12 +46,12 @@ export default function MobileBottomNavBar(){
                                 <img className="mobile-bottom-nav-bar-img" alt={images.BottomNavButton3IconAlt} src={images.BottomNavButton3Icon} />
                             </div>
                             <div className="mobile-bottom-nav-bar-section-content">
-                                Appointment&nbsp;now 
-                            </div> 
+                                Appointment&nbsp;now
+                            </div>
                         </div>
 
                     </Link>
-                </div>    
+                </div>
             </Navbar>
         </div>
     </>;
