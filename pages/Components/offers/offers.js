@@ -16,7 +16,7 @@ export default function Offers(){
                             </div>
                         </div>
                     <div className="offers-description">
-                        <div>
+                        <div className="content-description">
                             {processedInfo.offerDescription}
                         </div>
                         <div className="offers">
