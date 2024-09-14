@@ -117,7 +117,7 @@ const changedInfo = {
   //
   linkBookingMap: "",
   //
-  linkBookingApp: "https://bit.ly/4cgTxu4",
+  linkBookingApp: "https://joybookings.com/pamperedhands/booking",
   
   linkToMap: "https://maps.app.goo.gl/pFGNdcHsFoeiPxVaA",
 
@@ -343,11 +343,11 @@ const processedInfo = {
 
   //offer.js
   offerTitle : "Our Offers and Benefits",
-  offerDescription : "Free all cold drink and hot drink, chocolate, sweet or snack",
+  offerDescription : "Free tea and coffee",
   offerHeading : "Our offers:",
-  offerContent1 : "✅10% for Student. ",
-  offerContent2 : "✅Refer a friend to get 5 pounds voucher. ",
-  offerContent3 : "✅Group from 3 people get 10% with the main treatment",
+  offerContent1 : "✅If this is your first time visiting us, you will receive £5 off when your bill is over £25. ",
+  offerContent2 : "",
+  offerContent3 : "",
 }
 
 const headerInput = {
