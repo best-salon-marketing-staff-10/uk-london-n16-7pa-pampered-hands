@@ -930,7 +930,6 @@
       line-height: 1.6;
       font-size: 20px;
       letter-spacing: 1px;
-      text-align: center;
     }
     .offers-divider{
       margin-top: 35px;
@@ -941,6 +940,7 @@
     }
     .content-description{
       font-size: 23px;
+      text-align: center;
     }
   /*Phần Customer Review của tiệm
   */

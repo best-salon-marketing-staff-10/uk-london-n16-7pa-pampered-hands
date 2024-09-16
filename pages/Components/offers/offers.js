@@ -33,6 +33,9 @@ export default function Offers(){
                                 <div>
                                     {processedInfo.offerContent3}
                                 </div>
+                                <div>
+                                    {processedInfo.offerContent4}
+                                </div>
                             </div>
                         </div>
                         
