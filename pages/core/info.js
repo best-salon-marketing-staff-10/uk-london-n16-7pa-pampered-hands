@@ -117,7 +117,7 @@ const changedInfo = {
   //
   linkBookingMap: "",
   //
-  linkBookingApp: "https://joybookings.com/pamperedhands/booking",
+  linkBookingApp: "https://bit.ly/4cgTxu4",
   
   linkToMap: "https://maps.app.goo.gl/pFGNdcHsFoeiPxVaA",
 
